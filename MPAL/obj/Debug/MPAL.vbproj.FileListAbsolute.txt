@@ -1,0 +1,11 @@
+C:\Users\Elvis\Desktop\MPAL\MPAL\bin\Debug\MPAL.exe.config
+C:\Users\Elvis\Desktop\MPAL\MPAL\bin\Debug\MPAL.exe
+C:\Users\Elvis\Desktop\MPAL\MPAL\bin\Debug\MPAL.pdb
+C:\Users\Elvis\Desktop\MPAL\MPAL\bin\Debug\MPAL.xml
+C:\Users\Elvis\Desktop\MPAL\MPAL\obj\Debug\MPAL.vbprojResolveAssemblyReference.cache
+C:\Users\Elvis\Desktop\MPAL\MPAL\obj\Debug\MPAL.Form1.resources
+C:\Users\Elvis\Desktop\MPAL\MPAL\obj\Debug\MPAL.Resources.resources
+C:\Users\Elvis\Desktop\MPAL\MPAL\obj\Debug\MPAL.vbproj.GenerateResource.Cache
+C:\Users\Elvis\Desktop\MPAL\MPAL\obj\Debug\MPAL.exe
+C:\Users\Elvis\Desktop\MPAL\MPAL\obj\Debug\MPAL.xml
+C:\Users\Elvis\Desktop\MPAL\MPAL\obj\Debug\MPAL.pdb
